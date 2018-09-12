@@ -10,6 +10,7 @@
   "dependencies": {
     "aurelia-animator-css": "^1.0.4",
     "aurelia-bootstrapper": "^2.2.0",
+    "aurelia-cookie": "^1.0.10",
     "aurelia-materialize-bridge": "^1.1.10",
     "aurelia-typed-observable-plugin": "^0.4.2",
     "aurelia-validation": "^1.2.2",
